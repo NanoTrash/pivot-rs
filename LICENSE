@@ -1,22 +1,39 @@
-MIT License
+ЛИЦЕНЗИЯ MIT (РУССКОЯЗЫЧНАЯ РЕДАКЦИЯ)
 
 Copyright (c) 2024 X1r0z
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Предоставление прав
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Настоящим безвозмездно предоставляется любому лицу, получившему копию
+данного программного обеспечения и сопутствующей документации (далее — «Программное обеспечение»),
+простая (неисключительная) лицензия на использование Программного обеспечения без ограничений,
+включая, без ограничения, права на использование, воспроизведение, модификацию, объединение с
+иными программами, публикацию, распространение, сублицензирование и/или продажу копий Программного
+обеспечения, а также на предоставление лицам, которым Программное обеспечение поставляется,
+разрешения делать это, при соблюдении следующих условий.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Условия
+
+Указанное выше уведомление об авторском праве и настоящие условия лицензии должны быть
+включены во все копии или существенные части Программного обеспечения.
+
+3. Отсутствие гарантий
+
+ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНЫХ
+ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ, ГАРАНТИЯМИ ТОВАРНОЙ ПРИГОДНОСТИ,
+СООТВЕТСТВИЯ ОПРЕДЕЛЕННОЙ ЦЕЛИ И НЕНАРУШЕНИЯ ПРАВ ТРЕТЬИХ ЛИЦ. НИ В КАКОМ СЛУЧАЕ
+АВТОРЫ ИЛИ ПРАВООБЛАДАТЕЛИ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ПО КАКИМ-ЛИБО ИСКАМ, УБЫТКАМ
+ИЛИ ИНЫМ ОБЯЗАТЕЛЬСТВАМ, НЕЗАВИСИМО ОТ ТОГО, ЯВЛЯЮТСЯ ЛИ ОНИ РЕЗУЛЬТАТОМ ДОГОВОРА,
+ДЕЛИКТА ИЛИ ИНЫМ ОБРАЗОМ, ВОЗНИКШИМ ИЗ, ИЗ-ЗА ИЛИ В СВЯЗИ С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ
+ИЛИ ИСПОЛЬЗОВАНИЕМ ИЛИ ИНЫМИ ДЕЙСТВИЯМИ С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ.
+
+4. Пояснения относительно законодательства РФ
+
+Настоящая лицензия представляет собой перевод условий MIT License на русский язык и
+использует подход, соответствующий положениям главы 69 Гражданского кодекса Российской
+Федерации (в частности, ст. 1235, 1236, 1286 ГК РФ) о предоставлении неисключительных
+прав (простой лицензии) и свободном распространении программ для ЭВМ. Указанные нормы
+применяются постольку, поскольку они не изменяют и не ограничивают объем и характер прав,
+предоставляемых по исходной лицензии MIT. В случае расхождений толкование осуществляется
+в духе и по смыслу оригинальной лицензии MIT.
 
